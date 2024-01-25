@@ -1,0 +1,39 @@
+.section2 {
+    width: 1280px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 0 auto;
+    position: relative;
+    background: #2C343E;
+    border-radius: 10px;
+    margin-top: 160px;
+
+    h2 {
+        color: #FEFCF7;
+        font-family: serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+        padding-left: 85px;
+        padding-top: 100px;
+    }
+
+    p {
+        width: 540px;
+        color: #FEFCF7;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        padding-left: 85px;
+        padding-top: 20px;
+    }
+}
+
+.box2 {
+    position: absolute;
+    left: 750px;
+    top: -50px;
+}

@@ -1,0 +1,41 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0 auto;
+    margin-top: 40px;
+
+    img {
+        width: 236px;
+        height: 26px;
+    }
+
+    ul {
+        display: flex;
+        justify-content: center;
+        padding-top: 10px;
+        font-family: Barlow;
+    }
+
+    li {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        font-family: Barlow;
+    }
+
+    a {
+        color: #83888F;
+        font-family: Barlow;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 15px; 
+        letter-spacing: 0.923px;
+        text-transform: uppercase;
+
+    }
+}

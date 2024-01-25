@@ -1,0 +1,93 @@
+.section3 h4 {
+  width: 255px;
+  color: #83888F;
+  font-family: serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 32px;
+}
+
+.box3 {
+  width: 272px;
+  height: 240px;
+}
+.box3 img {
+  width: 40.842px;
+  height: 49.072px;
+}
+.box3 h2 {
+  width: 272px;
+  color: #333D4B;
+  font-family: serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 36px;
+  padding-top: 20px;
+}
+.box3 p {
+  width: 285px;
+  color: #333D4B;
+  font-family: Barlow;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  padding-top: 20px;
+}
+
+.box4 {
+  width: 272px;
+  height: 240px;
+}
+.box4 img {
+  width: 40.842px;
+  height: 49.072px;
+}
+.box4 h2 {
+  width: 272px;
+  color: #333D4B;
+  font-family: serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+}
+.box4 p {
+  width: 285px;
+  color: #333D4B;
+  font-family: Barlow;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.box5 {
+  width: 272px;
+  height: 240px;
+}
+.box5 img {
+  width: 40.842px;
+  height: 49.072px;
+  flex-shrink: 0;
+}
+.box5 h2 {
+  width: 272px;
+  color: #333D4B;
+  font-family: serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 36px;
+}
+.box5 p {
+  width: 285px;
+  color: #333D4B;
+  font-family: Barlow;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  padding-top: 10px;
+}/*# sourceMappingURL=section3.css.map */

@@ -1,0 +1,64 @@
+header {
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0 auto;
+    margin-top: 40px;
+}
+
+.hero_section {
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0 auto;
+    margin-top: 60px;
+}
+
+.section1 {
+    margin-left: 160px;
+    gap: 135px;
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0 auto;
+
+}
+
+
+
+.section3 {
+    margin-top: 100px;
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0 auto;
+    margin-top: 100px;
+    h4{
+        margin-left: 100px;
+    }
+}
+
+.conteiner1 {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 70px;
+
+    .box4 {
+        margin-top: 20px;
+
+        p {
+            margin-top: 20px;
+        }
+    }
+
+    .box5 {
+        margin-top: 20px;
+
+        p {
+            margin-top: 20px;
+        }
+    }
+}
+
+.box2 {
+    img {
+        border-radius: 10px;
+    }
+}
